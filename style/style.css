@@ -182,9 +182,9 @@ ul#menu li a:hover, ul#menu li.selected a, ul#menu li.selected a:hover
   text-decoration: none;} 
 
 #content
-{ text-align: left;
+{ text-align: center;
   float: left;
-  width: 595px;
+  width: 800px;
   padding-bottom: 20;}
 
 #content ul
